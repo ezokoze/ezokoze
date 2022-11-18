@@ -4,5 +4,4 @@
 - 👨‍💻 You can visit my [website](https://f1tch.xyz) or contact me on [`f1tch@proton.me`](mailto:f1tch@proton.me)
 
 <!--START_SECTION:waka-->
-SHOW_EDITORS=TRUE
 <!--END_SECTION:waka-->
