@@ -9,8 +9,7 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               1 min               ███████████████░░░░░░░░░░   61.34 % 
-CSS                      0 secs              ██████████░░░░░░░░░░░░░░░   38.66 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -26,5 +25,5 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2023 00:16:06 UTC
+ Last Updated on 18/05/2023 04:04:54 UTC
 <!--END_SECTION:waka-->
