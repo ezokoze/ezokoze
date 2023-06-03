@@ -9,7 +9,8 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Solidity                 3 mins              ███████████████░░░░░░░░░░   61.85 % 
+JavaScript               2 mins              ██████████░░░░░░░░░░░░░░░   38.15 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -25,5 +26,5 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2023 00:17:31 UTC
+ Last Updated on 03/06/2023 04:04:56 UTC
 <!--END_SECTION:waka-->
