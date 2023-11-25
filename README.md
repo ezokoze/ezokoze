@@ -3,6 +3,19 @@
 - 👨‍💻 You can visit my [website](https://f1tch.xyz) or contact me on [`f1tch@proton.me`](mailto:f1tch@proton.me)
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+TypeScript               2 hrs 4 mins        ██████████████████░░░░░░░   71.96 % 
+CSS                      29 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+JavaScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Batchfile                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -16,5 +29,5 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2023 04:04:41 UTC
+ Last Updated on 25/11/2023 08:05:09 UTC
 <!--END_SECTION:waka-->
