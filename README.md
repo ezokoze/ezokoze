@@ -1,4 +1,4 @@
-currently working in web3 space
+🔭 currently working in web3 space
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
@@ -14,7 +14,7 @@ JavaScript               23 mins             █░░░░░░░░░░�
 JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 ```
 
-**I Mostly Code in TypeScript** 
+👨🏻‍💻 **I Mostly Code in TypeScript** 
 
 ```text
 TypeScript               47 repos            ████████████░░░░░░░░░░░░░   46.53 % 
