@@ -1,6 +1,4 @@
-- 🔭 I’m currently working on Freelance as Web3 developer
-- 🪶 Blockchain Enthusiast
-- 👨‍💻 You can visit my [website](https://f1tch.xyz) or contact me on [`f1tch@proton.me`](mailto:f1tch@proton.me)
+currently working in web3 space
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
