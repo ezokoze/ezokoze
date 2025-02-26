@@ -7,7 +7,9 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               57 mins             ██████████████████████░░░   89.39 % 
+Bash                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -23,5 +25,5 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/02/2025 00:22:05 UTC
+ Last Updated on 26/02/2025 04:06:28 UTC
 <!--END_SECTION:waka-->
