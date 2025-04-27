@@ -7,9 +7,7 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   4 mins              █████████████░░░░░░░░░░░░   50.82 % 
-Bash                     4 mins              ████████████░░░░░░░░░░░░░   49.11 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -25,5 +23,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/04/2025 00:26:05 UTC
+ Last Updated on 27/04/2025 04:06:13 UTC
 <!--END_SECTION:waka-->
