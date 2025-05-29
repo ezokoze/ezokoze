@@ -1,6 +1,18 @@
 🔭 currently working in web3 space
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+Bash                     1 min               ██████████████░░░░░░░░░░░   55.50 % 
+TypeScript               0 secs              ███████░░░░░░░░░░░░░░░░░░   29.88 % 
+JSON                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -14,5 +26,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2025 04:26:33 UTC
+ Last Updated on 29/05/2025 08:27:41 UTC
 <!--END_SECTION:waka-->
