@@ -1,6 +1,15 @@
 🔭 currently working in web3 space
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -14,5 +23,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2025 20:06:13 UTC
+ Last Updated on 01/07/2025 00:29:41 UTC
 <!--END_SECTION:waka-->
