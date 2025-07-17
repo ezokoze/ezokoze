@@ -7,9 +7,7 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               1 hr 6 mins         ███████████████████████░░   92.30 % 
-JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -25,5 +23,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2025 00:27:14 UTC
+ Last Updated on 17/07/2025 04:18:02 UTC
 <!--END_SECTION:waka-->
