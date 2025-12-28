@@ -1,19 +1,6 @@
 🔭 currently working in web3 space
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-TypeScript               8 hrs 22 mins       ████████████████░░░░░░░░░   63.82 % 
-Other                    2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Git Config               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -27,5 +14,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2025 20:06:20 UTC
+ Last Updated on 28/12/2025 00:30:40 UTC
 <!--END_SECTION:waka-->
