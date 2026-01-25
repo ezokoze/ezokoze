@@ -7,8 +7,7 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    4 mins              █████████████████████████   99.78 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -24,5 +23,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/01/2026 20:05:56 UTC
+ Last Updated on 25/01/2026 00:31:00 UTC
 <!--END_SECTION:waka-->
