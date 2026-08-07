@@ -1,6 +1,23 @@
 🔭 currently working in web3 space
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2016%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -14,5 +31,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 00:52:21 UTC
+ Last Updated on 07/08/2026 05:40:41 UTC
 <!--END_SECTION:waka-->
